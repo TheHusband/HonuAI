@@ -204,7 +204,7 @@ const projects = [
   {
     name: "AI Broker System",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Transform your real estate office with our cutting-edge AI Broker System, powered by AnythingLLM. Seamlessly manage client communications, streamline property data analysis, and generate market insights—all tailored to your brokerage’s unique needs. Empower your team with smarter automation, saving time and closing deals faster than ever before!",
     tags: [
       {
         name: "Data Analytics",
@@ -229,7 +229,7 @@ const projects = [
   {
     name: "AI Agent Assistant",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Elevate your real estate business with our AI Real Estate Assistant, designed to streamline customer service and daily operations using advanced AI Agents. From managing client inquiries to automating lead follow-ups and scheduling, this intelligent assistant works 24/7 to keep your business running smoothly. Focus on closing deals while your AI Assistant handles the rest!",
     tags: [
       {
         name: "Onboarding",
@@ -250,7 +250,7 @@ const projects = [
   {
     name: "AI Investor Assistant",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Maximize your investment potential with our AI Real Estate Investor Assistant, powered by advanced AI Agents. Effortlessly analyze market trends, evaluate properties, and manage your portfolio with intelligent tools designed to save you time and enhance decision-making. Stay ahead of the competition while your AI Assistant handles the research and business essentials!",
     tags: [
       {
         name: "Data Analytics",
