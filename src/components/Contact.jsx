@@ -39,7 +39,7 @@ const Contact = () => {
           from_name: form.name,
           to_name: "Website Contact Form",
           from_email: form.email,
-          to_email: "degenerativeart.riffraff@gmail.com",
+          to_email: "huemann@honuai.tech",
           message: form.message,
         },
         import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
