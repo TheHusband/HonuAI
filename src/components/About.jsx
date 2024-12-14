@@ -44,10 +44,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Honu\Tech is a Phoenix, AZ-based AI automation company dedicated to empowering small 
+        Honu\ai is a Phoenix, AZ-based AI automation company dedicated to empowering small 
         and medium-sized businesses with innovative technology solutions. Our mission is to 
         streamline operations, enhance efficiency, and unlock growth potential through cutting-edge 
-        AI and automation tools. At Honu\Tech, we believe that advanced technology should be 
+        AI and automation tools. At Honu\ai, we believe that advanced technology should be 
         accessible and adaptable to businesses of all sizes, helping you work smarter, not harder. 
         Let us simplify your path to success with intelligent solutions tailored to your needs.
       </motion.p>
