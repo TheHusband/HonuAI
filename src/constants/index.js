@@ -224,7 +224,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    //source_code_link: "https://github.com/",
   },
   {
     name: "AI Agent Assistant",
@@ -245,7 +245,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    //source_code_link: "https://github.com/",
   },
   {
     name: "AI Investor Assistant",
@@ -266,7 +266,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    //source_code_link: "https://github.com/",
   },
 ];
 
