@@ -267,13 +267,12 @@ const projects = [
       },
     ],
     image: tripguide,
-<<<<<<< HEAD
-    source_code_link: "https://github.com/",
+   // source_code_link: "https://github.com/",
   },  
   {
     name: "AI Property Management System",
     description:
-      "Revolutionize your property management with our cutting-edge AI system, designed to streamline operations, enhance tenant satisfaction, automate maintenance requests and maximize profitability effortlessly.",
+      "Revolutionize your property management with our cutting-edge AI systems, designed to streamline operations, enhance tenant satisfaction, automate maintenance requests and maximize profitability effortlessly.",
     tags: [
       {
         name: "Data Analytics",
@@ -293,10 +292,7 @@ const projects = [
       },
     ],
     image: propertym,
-    source_code_link: "https://github.com/",
-=======
     //source_code_link: "https://github.com/",
->>>>>>> 60b31a919d9241d3c0a02db789d17b3cab58c6e6
   },
 ];
 
