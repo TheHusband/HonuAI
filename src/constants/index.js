@@ -21,6 +21,7 @@ import {
   shopify,
   carrent,
   jobit,
+  propertym,
   tripguide,
   threejs,
 } from "../assets";
@@ -55,7 +56,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Inventory and Supply Chain Management",
+    title: "Contract Automation",
     icon: backend,
   },
   {
@@ -266,6 +267,31 @@ const projects = [
       },
     ],
     image: tripguide,
+    source_code_link: "https://github.com/",
+  },  
+  {
+    name: "AI Property Management System",
+    description:
+      "Revolutionize your property management with our cutting-edge AI system, designed to streamline operations, enhance tenant satisfaction, automate maintenance requests and maximize profitability effortlessly.",
+    tags: [
+      {
+        name: "Data Analytics",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Customer Support",
+        color: "green-text-gradient",
+      },      
+      {
+        name: "Customer Management",
+        color: "yellow-text-gradient",
+      },
+      {
+        name: "Investor Relations",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: propertym,
     source_code_link: "https://github.com/",
   },
 ];
